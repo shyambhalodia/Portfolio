@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/shyambhalodia/Portfolio/static/css/main.c58beb35.css",
-    "main.js": "/shyambhalodia/Portfolio/static/js/main.fbabb116.js",
+    "main.js": "/shyambhalodia/Portfolio/static/js/main.a8144145.js",
     "static/css/64.bba8fa55.chunk.css": "/shyambhalodia/Portfolio/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.56dc6704.chunk.js": "/shyambhalodia/Portfolio/static/js/64.56dc6704.chunk.js",
+    "static/js/64.34a561c0.chunk.js": "/shyambhalodia/Portfolio/static/js/64.34a561c0.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/shyambhalodia/Portfolio/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.b19fe3ea.chunk.js": "/shyambhalodia/Portfolio/static/js/769.b19fe3ea.chunk.js",
+    "static/js/769.f5ca77a3.chunk.js": "/shyambhalodia/Portfolio/static/js/769.f5ca77a3.chunk.js",
     "static/media/logo.png": "/shyambhalodia/Portfolio/static/media/logo.51f940095afff56368ac.png",
     "static/media/dholakiya_school.jpg": "/shyambhalodia/Portfolio/static/media/dholakiya_school.da33641c7102387cdc6b.jpg",
     "static/media/Montserrat-Regular.ttf": "/shyambhalodia/Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -21,14 +21,14 @@
     "index.html": "/shyambhalodia/Portfolio/index.html",
     "static/media/talksCardBack.svg": "/shyambhalodia/Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.c58beb35.css.map": "/shyambhalodia/Portfolio/static/css/main.c58beb35.css.map",
-    "main.fbabb116.js.map": "/shyambhalodia/Portfolio/static/js/main.fbabb116.js.map",
+    "main.a8144145.js.map": "/shyambhalodia/Portfolio/static/js/main.a8144145.js.map",
     "64.bba8fa55.chunk.css.map": "/shyambhalodia/Portfolio/static/css/64.bba8fa55.chunk.css.map",
-    "64.56dc6704.chunk.js.map": "/shyambhalodia/Portfolio/static/js/64.56dc6704.chunk.js.map",
+    "64.34a561c0.chunk.js.map": "/shyambhalodia/Portfolio/static/js/64.34a561c0.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/shyambhalodia/Portfolio/static/css/769.b3cbb36b.chunk.css.map",
-    "769.b19fe3ea.chunk.js.map": "/shyambhalodia/Portfolio/static/js/769.b19fe3ea.chunk.js.map"
+    "769.f5ca77a3.chunk.js.map": "/shyambhalodia/Portfolio/static/js/769.f5ca77a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c58beb35.css",
-    "static/js/main.fbabb116.js"
+    "static/js/main.a8144145.js"
   ]
 }
